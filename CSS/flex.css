@@ -1,0 +1,30 @@
+div{
+    height: 50px;
+    width: 50px;
+}
+
+#one
+{
+    background-color: blue;
+}
+#two
+{
+    background-color: aquamarine;
+}
+#three
+{
+    background-color: blueviolet;
+}
+
+section{
+    width: 80vw;
+    height: 300px;
+    border : 2px solid gray;
+    margin : 10px auto;
+    display : flex;
+    justify-content: center;
+    /*justify-content: space-evenly;*/
+    /*flex-wrap : wrap; */
+    align-items: center;
+    /*flex-direction:coloumn-reverse; */
+}

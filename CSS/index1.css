@@ -1,0 +1,23 @@
+div{
+    height: 100px;
+    width: 100px;
+    display : inline-block;
+}
+
+#one
+{
+    background-color: blue;
+}
+#two
+{
+    background-color: aquamarine;
+    position :fixed;
+    top : 200px;
+   /* position : absolute;
+    top : 5px; */
+     
+}
+#three
+{
+    background-color: blueviolet;
+}
